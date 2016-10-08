@@ -1,0 +1,1 @@
+Used Kruskal's algorithm to generate a maze. Used JavaFX to display the maze.
